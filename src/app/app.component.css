@@ -1,0 +1,14 @@
+:host {
+    display: flex;
+    flex-direction:row;
+}
+
+app-footer {
+    align-self:flex-end;
+    align-items: center;
+}
+
+
+.space {
+    flex-grow: 3;
+}
